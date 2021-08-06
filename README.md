@@ -1,4 +1,4 @@
-# Dictionary-GUI
+# SMART DICTIONARY
  
 ![basic layout](image1.jpg) 
 
@@ -18,14 +18,4 @@ a pre-installed module in Python.
 * Python 
 * Tkinter 
 
-
-## Authors
-
-* **Nawaj KC** - *Initial work* - [Dictionary GUI](https://github.com/Dictionary-GUI)
-
-
-## Acknowledgments
-
-* Ardit and his Python course in UDemy for inspiration on the core script to build the dictionary
-* Bucky Roberts and his channel thenewboston for putting up tutorials on tkinter 
 
